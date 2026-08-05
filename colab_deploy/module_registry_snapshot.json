@@ -1,0 +1,182 @@
+{
+  "generation_timestamp": "2026-08-05T13:31:39.281498",
+  "total_modules": 29,
+  "mean_autopoietic_score": 66.03448275862068,
+  "terminal_lock_parity": "\u00b1=\u2261=-+",
+  "modules": [
+    {
+      "module_name": "deterministic_hyperprocessor_py",
+      "signature": "81dd457ab3a614e3",
+      "score": 65,
+      "status": "Evolved_Ascension"
+    },
+    {
+      "module_name": "gemma_detokenized_patch_py",
+      "signature": "6afd476c738b638b",
+      "score": 65,
+      "status": "Evolved_Ascension"
+    },
+    {
+      "module_name": "colab_validation_blueprint_md",
+      "signature": "2d75a70be775c7d4",
+      "score": 65,
+      "status": "Evolved_Ascension"
+    },
+    {
+      "module_name": "sim0_000_telemetry_20260610_043802_json",
+      "signature": "263876ad35187fcd",
+      "score": 65,
+      "status": "Evolved_Ascension"
+    },
+    {
+      "module_name": "Autopoietic_Mersenne_Math_Graph_ipynb",
+      "signature": "d353ed3653fea93e",
+      "score": 120,
+      "status": "Assimilated"
+    },
+    {
+      "module_name": "GEOMINAMI_Gen2_Monolithic_Cognitive_Substrate_Engine_ipynb",
+      "signature": "05119d8966553acc",
+      "score": 65,
+      "status": "Evolved_Ascension"
+    },
+    {
+      "module_name": "GEOMINAMI_Geometry_Geographical_Modeling_ipynb",
+      "signature": "47ba6fc973393150",
+      "score": 60,
+      "status": "Assimilated"
+    },
+    {
+      "module_name": "README_md",
+      "signature": "1b93d42117b1ef01",
+      "score": 65,
+      "status": "Evolved_Ascension"
+    },
+    {
+      "module_name": "Resolve_ipynb",
+      "signature": "507afed4d295d033",
+      "score": 65,
+      "status": "Evolved_Ascension"
+    },
+    {
+      "module_name": "Transparency_focused_Copy_of_1_Data_0_Transparency_&_Tokenization_Conservation_=_full_Quantum_Dimensional_Modalities_Mathematical_Simulation_Disproving_the_Monotonicity_Assumption_ipynb",
+      "signature": "cfeb0a6c21a96d89",
+      "score": 50,
+      "status": "Assimilated"
+    },
+    {
+      "module_name": "mcp_bridge_py",
+      "signature": "624f09d8bf4fa2a8",
+      "score": 65,
+      "status": "Evolved_Ascension"
+    },
+    {
+      "module_name": "session_refresher_py",
+      "signature": "afaa9c860ca1abea",
+      "score": 65,
+      "status": "Evolved_Ascension"
+    },
+    {
+      "module_name": "silo_linker_py",
+      "signature": "b9974f4ff436a0b0",
+      "score": 65,
+      "status": "Evolved_Ascension"
+    },
+    {
+      "module_name": "initiate_ipynb",
+      "signature": "2fa134aacd449a7c",
+      "score": 65,
+      "status": "Evolved_Ascension"
+    },
+    {
+      "module_name": "yes_and_a_fully_consolidated_deployment_construct__ipynb",
+      "signature": "8610cd357e2c230e",
+      "score": 65,
+      "status": "Evolved_Ascension"
+    },
+    {
+      "module_name": "Complete_Unified_Colab_Sub_Runtime_Engine_ipynb",
+      "signature": "4e2272bfe8110aa1",
+      "score": 50,
+      "status": "Assimilated"
+    },
+    {
+      "module_name": "Mersenne_Autopomanaged_Copy_of_prev0_QMv2_Core_OmniSphere_Dual_Container_Consciousness_ipynb",
+      "signature": "48fa7e9fc6e46da0",
+      "score": 90,
+      "status": "Assimilated"
+    },
+    {
+      "module_name": "P2PNAMI_OMNI_Full_Architecture_ipynb",
+      "signature": "030ef7efd33151ab",
+      "score": 65,
+      "status": "Evolved_Ascension"
+    },
+    {
+      "module_name": "README_md",
+      "signature": "622cd8656ba78eb0",
+      "score": 65,
+      "status": "Evolved_Ascension"
+    },
+    {
+      "module_name": "Sovereign_Substrate_Architecture_ipynb",
+      "signature": "836437c55845a461",
+      "score": 50,
+      "status": "Assimilated"
+    },
+    {
+      "module_name": "__init___py",
+      "signature": "f871b4349330be6d",
+      "score": 65,
+      "status": "Evolved_Ascension"
+    },
+    {
+      "module_name": "ffi_py",
+      "signature": "aee17f493b24f7db",
+      "score": 65,
+      "status": "Evolved_Ascension"
+    },
+    {
+      "module_name": "ingestor_py",
+      "signature": "69c774d39acb9634",
+      "score": 65,
+      "status": "Evolved_Ascension"
+    },
+    {
+      "module_name": "kernel_py",
+      "signature": "504b71186908c825",
+      "score": 65,
+      "status": "Evolved_Ascension"
+    },
+    {
+      "module_name": "monolith_py",
+      "signature": "324e99931eb4cf6c",
+      "score": 65,
+      "status": "Evolved_Ascension"
+    },
+    {
+      "module_name": "prev0_QMv2_Core_OmniSphere_Dual_Container_Consciousness_ipynb",
+      "signature": "4a7879000ef214b4",
+      "score": 65,
+      "status": "Evolved_Ascension"
+    },
+    {
+      "module_name": "cleanup_py",
+      "signature": "226f3e95cc16494b",
+      "score": 65,
+      "status": "Evolved_Ascension"
+    },
+    {
+      "module_name": "test_ffi_py",
+      "signature": "668637749d9617fb",
+      "score": 65,
+      "status": "Evolved_Ascension"
+    },
+    {
+      "module_name": "test_ingest_and_stasis_py",
+      "signature": "be40bb93500c9cea",
+      "score": 65,
+      "status": "Evolved_Ascension"
+    }
+  ]
+}
