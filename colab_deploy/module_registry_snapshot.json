@@ -1,30 +1,30 @@
 {
-  "generation_timestamp": "2026-08-05T13:33:54.977205",
+  "generation_timestamp": "2026-08-05T13:38:27.384442",
   "total_modules": 30,
-  "mean_autopoietic_score": 65.3896103896104,
+  "mean_autopoietic_score": 65.29702970297029,
   "terminal_lock_parity": "\u00b1=\u2261=-+",
   "modules": [
     {
       "module_name": "deterministic_hyperprocessor_py",
-      "signature": "ec2be4131c19b884",
+      "signature": "ce7065296e496762",
       "score": 65,
       "status": "Evolved_Ascension"
     },
     {
       "module_name": "gemma_detokenized_patch_py",
-      "signature": "e3109cd25993b4e0",
+      "signature": "373545ebb687e1f0",
       "score": 65,
       "status": "Evolved_Ascension"
     },
     {
       "module_name": "colab_validation_blueprint_md",
-      "signature": "2f05f1daeef771a6",
+      "signature": "b4bccb096255b83e",
       "score": 65,
       "status": "Evolved_Ascension"
     },
     {
       "module_name": "sim0_000_telemetry_20260610_043802_json",
-      "signature": "5934da11f7e547c5",
+      "signature": "a81e8f922be6ca7f",
       "score": 65,
       "status": "Evolved_Ascension"
     },
@@ -36,7 +36,7 @@
     },
     {
       "module_name": "GEOMINAMI_Gen2_Monolithic_Cognitive_Substrate_Engine_ipynb",
-      "signature": "f55d2a7a47d9cb67",
+      "signature": "cdafae4e6067cec3",
       "score": 65,
       "status": "Evolved_Ascension"
     },
@@ -48,13 +48,13 @@
     },
     {
       "module_name": "README_md",
-      "signature": "083b6af7e378932b",
+      "signature": "631e14405b88c834",
       "score": 65,
       "status": "Evolved_Ascension"
     },
     {
       "module_name": "Resolve_ipynb",
-      "signature": "864684b6ebe91ee9",
+      "signature": "a69332a74a03131d",
       "score": 65,
       "status": "Evolved_Ascension"
     },
@@ -66,37 +66,37 @@
     },
     {
       "module_name": "mcp_bridge_py",
-      "signature": "7efab61acc433c36",
+      "signature": "dfa7ff66855dcadf",
       "score": 65,
       "status": "Evolved_Ascension"
     },
     {
       "module_name": "module_registry_snapshot_json",
-      "signature": "07323d74ebc4eaf8",
+      "signature": "0fa2f95b6215dcfb",
       "score": 65,
       "status": "Evolved_Ascension"
     },
     {
       "module_name": "session_refresher_py",
-      "signature": "c3547a61a7440de1",
+      "signature": "ffde9740040bc4b6",
       "score": 65,
       "status": "Evolved_Ascension"
     },
     {
       "module_name": "silo_linker_py",
-      "signature": "8329440ef2f8ca43",
+      "signature": "7c41f9def3ed25a5",
       "score": 65,
       "status": "Evolved_Ascension"
     },
     {
       "module_name": "initiate_ipynb",
-      "signature": "53943cc2dd19ae71",
+      "signature": "ce126354fcaccc85",
       "score": 65,
       "status": "Evolved_Ascension"
     },
     {
       "module_name": "yes_and_a_fully_consolidated_deployment_construct__ipynb",
-      "signature": "1c3b8d66d2bbca04",
+      "signature": "816e0a239a5d1858",
       "score": 65,
       "status": "Evolved_Ascension"
     },
@@ -114,13 +114,13 @@
     },
     {
       "module_name": "P2PNAMI_OMNI_Full_Architecture_ipynb",
-      "signature": "4815385638d8c32e",
+      "signature": "cfa2209991c84cf9",
       "score": 65,
       "status": "Evolved_Ascension"
     },
     {
       "module_name": "README_md",
-      "signature": "91418a0ed75adab4",
+      "signature": "e045c95d6ab2c924",
       "score": 65,
       "status": "Evolved_Ascension"
     },
@@ -132,55 +132,55 @@
     },
     {
       "module_name": "__init___py",
-      "signature": "0b9b7c1e1ea750bc",
+      "signature": "6839a2c173be5b86",
       "score": 65,
       "status": "Evolved_Ascension"
     },
     {
       "module_name": "ffi_py",
-      "signature": "ab1534372b149e6b",
+      "signature": "02796d0a4bda5c42",
       "score": 65,
       "status": "Evolved_Ascension"
     },
     {
       "module_name": "ingestor_py",
-      "signature": "7821ec25da7707f2",
+      "signature": "65df786c17affd45",
       "score": 65,
       "status": "Evolved_Ascension"
     },
     {
       "module_name": "kernel_py",
-      "signature": "08de83f1b9325460",
+      "signature": "1eb0f0d607fb62cb",
       "score": 65,
       "status": "Evolved_Ascension"
     },
     {
       "module_name": "monolith_py",
-      "signature": "905b20c5b30c5bbd",
+      "signature": "19a4aac9e9ed5142",
       "score": 65,
       "status": "Evolved_Ascension"
     },
     {
       "module_name": "prev0_QMv2_Core_OmniSphere_Dual_Container_Consciousness_ipynb",
-      "signature": "0f978145411e2bd1",
+      "signature": "36663be963ae9c9d",
       "score": 65,
       "status": "Evolved_Ascension"
     },
     {
       "module_name": "cleanup_py",
-      "signature": "d59be82f682e4e06",
+      "signature": "6a928425d2749057",
       "score": 65,
       "status": "Evolved_Ascension"
     },
     {
       "module_name": "test_ffi_py",
-      "signature": "8c5d2b76e9bfb610",
+      "signature": "8f05a12c137efa3a",
       "score": 65,
       "status": "Evolved_Ascension"
     },
     {
       "module_name": "test_ingest_and_stasis_py",
-      "signature": "e5049038c1fb823d",
+      "signature": "1e1de2fe632be1b1",
       "score": 65,
       "status": "Evolved_Ascension"
     }
